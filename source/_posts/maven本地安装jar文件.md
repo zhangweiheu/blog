@@ -3,6 +3,7 @@ title: maven本地安装jar文件
 tags: [maven]
 categories: [开发工具]
 comments: true
+toc: true
 date: 2016-04-17 20:54:59
 ---
 ---
