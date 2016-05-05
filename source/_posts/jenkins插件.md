@@ -5,6 +5,7 @@ categories: [Jenkins]
 comments: true
 toc: true
 date: 2016-04-28 22:32:53
+description: jenkins后“可选插件”列表为空
 ---
 ###  安装jenkins后“可选插件”列表为空
 

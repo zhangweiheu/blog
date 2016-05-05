@@ -5,6 +5,7 @@ categories: [Maven]
 comments: true
 toc: true
 date: 2016-04-17 20:54:59
+description: maven本地仓库安装jar
 ---
 
 ###  maven本地仓库安装jar和源文件
