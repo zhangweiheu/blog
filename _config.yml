@@ -66,26 +66,29 @@ pagination_dir: page
 theme: maupassant
 
 # hexo sitemap网站地图
-sitemap: 
-  path: sitemap.xml
-baidusitemap: 
-  path: baidusitemap.xml
-
 search:
   path: search.xml
   field: post
 
 plugin:
 - hexo-generator-feed
+- hexo-generator-sitemap
+- hexo-generator-baidu-sitemap
+
+sitemap: 
+  path: sitemap.xml
+
+baidusitemap: 
+  path: baidusitemap.xml
 
 feed:
-type: atom
-path: atom.xml
-limit: 20
+  type: atom
+  path: atom.xml
+  limit: 20
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy: 
-  type: git
-  repository: git@github.com:zhangweiheu/zhangweiheu.github.io.git
-  branch: master
+# deploy: 
+#   type: git
+#   repository: git@github.com:zhangweiheu/zhangweiheu.github.io.git
+#   branch: master

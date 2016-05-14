@@ -1,6 +1,5 @@
 ---
 title: about me
-
 ---
 
 ##  流云  
@@ -27,15 +26,6 @@ title: about me
     
 ##### 爱好：  
 　　喜欢羽毛球 ， 喜欢山水风景。
-
-
-
-
-
-
-
-
-
 
 <audio autoplay="autoplay">
 <source src="http://7xo04n.com1.z0.glb.clouddn.com/Shane%20Filan%20-%20Everytime.mp3" type="audio/mpeg" />
