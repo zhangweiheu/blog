@@ -8,9 +8,20 @@ date: 2016-04-17 20:54:59
 description: maven本地仓库安装jar
 ---
 
-###  maven本地仓库安装jar和源文件
+###  maven本地仓库安装jar包和源码
 
-mvn install:install-file -Dfile="f:\alipay-sdk-java-1.5-source.jar" -DgroupId="alipay" -DartifactId="sdk-java" -Dversion="1.5" -Dpackaging=jar  //-Dclassifier=sources
+#### 安装依赖包
+``` bash  
+mvn install:install-file -Dfile=D:/spymemcached-2.10.3.jar -DgroupId=net.spy -DartifactId=spymemcached -Dversion=2.10.3 -Dpackaging=jar
+```
+#### 安装source类的源码
+```bash
+mvn install:install-file -Dfile=D:/spymemcached-2.10.3-sources.jar -DgroupId=net.spy -DartifactId=spymemcached -Dversion=2.10.3 -Dpackaging=jar -Dclassifier=sources
+```
 
+#### 安装javadoc类的源码
+```bash
+mvn install:install-file -Dfile=D:/spymemcached-2.10.3-javadoc.jar -DgroupId=net.spy -DartifactId=spymemcached -Dversion=2.10.3 -Dpackaging=jar -Dclassifier=javadoc
+```
 ---
 
