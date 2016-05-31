@@ -7,12 +7,12 @@ title: 流云
 subtitle: 不忘初心，方得始终
 description:
 author: zhangwei
-language: zh-CN
+language: zh-Hans
 timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: zhangweiheu.github.io
+url: http://blog.zhangweiheu.cn
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults: 
@@ -74,7 +74,7 @@ tag_generator:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: maupassant
+theme: next
 
 # hexo sitemap网站地图
 search:

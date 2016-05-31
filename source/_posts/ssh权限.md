@@ -1,6 +1,6 @@
 ---
-title: ssh权限
-tags: [ssh]
+title: SSH权限
+tags: [SSH]
 categories: [Linux]
 comments: true
 toc: true
