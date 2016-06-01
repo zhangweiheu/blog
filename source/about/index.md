@@ -16,9 +16,9 @@ comments: false
 ##### 技能：  
 
 　　主语言：Java  
-   其他语言：Javascript 、 HTML 、 CSS  、 Shell  
-   Java框架：Spring 、 Struts2 、 SpringMVC 、 Mybatis 、 Hibernate 、 Spring Boot  
-   前端框架：jQuery 、 Bootstrap  
+　　其他语言：Javascript 、 HTML 、 CSS  、 Shell  
+　　Java框架：Spring 、 Struts2 、 SpringMVC 、 Mybatis 、 Hibernate 、 Spring Boot  
+　　前端框架：jQuery 、 Bootstrap  
 　　服务器：Nginx 、 Apache-Tomcat  
 　　数据库：MongoDB 、 Redis 、 MySQL  
 　　辅助工具：Maven 、 SourceTree:非常友好的Git客户端工具 、 Jenkins：CI系统   
