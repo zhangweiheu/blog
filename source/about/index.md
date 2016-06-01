@@ -4,24 +4,26 @@ comments: false
 ---
 ##  流云  
 
-　　后端程序员一枚，喜欢高并发，希望用技术创造美好的生活。
+　　Java程序员一枚，热衷于高并发，希望用技术创造美好的生活。  
 　　邮箱：zhangweiheu@gmail.com
 
     
 #####  目前在做： 
  
-　　学习Docker；
-　　做毕业设计，基于Docker，并使用Nginx做负载均衡。
-    
+　　学习Docker；  
+　　毕业设计，基于Docker和SSM框架，并使用Nginx做负载均衡。
+   
 ##### 技能：  
 
-　　语言：Java 、 Javascript 、 HTML 、 CSS  、 Shell  
-　　常用框架：SSH/SSM  
-　　了解：Nginx  
-　　熟悉：Spring Boot 、 MongoDB 、 Redis  
-　　熟练使用：Maven 、 Git 、 Mysql
+　　主语言：Java  
+   其他语言：Javascript 、 HTML 、 CSS  、 Shell  
+   Java框架：Spring 、 Struts2 、 SpringMVC 、 Mybatis 、 Hibernate 、 Spring Boot  
+   前端框架：jQuery 、 Bootstrap  
+　　服务器：Nginx 、 Apache-Tomcat  
+　　数据库：MongoDB 、 Redis 、 MySQL  
+　　辅助工具：Maven 、 SourceTree:非常友好的Git客户端工具 、 Jenkins：CI系统   
 
-#####  读过的书  
+#####  涉猎技术书籍  
     
 　　《深入理解Java虚拟机》、《Redis设计与实现》
     
