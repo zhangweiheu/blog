@@ -1,16 +1,16 @@
 ---
 title: Java线程状态知识点
-tags: [多线程]
-categories: [Java基础]
+tags: [Java多线程]
+categories: [Java]
 comments: true
 toc: true
 date: 2016-04-18 16:34:52
 description: 线程状态知识
 ---
-##  Thread和Runnable实现线程的异同  
+##  Thread和Runnable实现线程的异同
 
 ###  相同点
-- 都是多线程实现的方式  
+- 都是多线程实现的方式
 
 ###  不同点
 - Thread是类，而Runnable是接口；Thread是实现了Runnable接口的类。

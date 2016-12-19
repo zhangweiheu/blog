@@ -1,6 +1,6 @@
-title: Vim快捷键  
-date: 2015-11-02 22:49:13  
-categories: [Linux]  
+title: Vim快捷键
+date: 2015-11-02 22:49:13
+categories: [Linux]
 tags: [Vim]
 comments: true
 toc: true
@@ -9,14 +9,14 @@ toc: true
 
 #### 基础命令
 
-- :e filename　　打开文件编辑  
-- :w　　保存文件  
-- :q　　退出编辑器  
+- :e filename　　打开文件编辑
+- :w　　保存文件
+- :q　　退出编辑器
 - :q!　　退出但不保存
 - :x　　Write file (if changes has been made) and exit
 - .　　Repeats the last change made in normal mode
 - 5.　　Repeats 5 times the last change made in normal mode
-- :sav filename　　Saves file as filename 
+- :sav filename　　Saves file as filename
 
 #### 剪切、复制和粘贴
 
@@ -136,7 +136,7 @@ toc: true
 - !}fmt　　Align all lines at the current position
 - 5!!fmt　　Align the next 5 lines
 
-#### Tabs/Windows　
+#### Tabs/Windows
 - :tabnew　　Creates a new tab
 - gt　　Show next tab
 - :tabfirst　　Show first tab
@@ -185,7 +185,7 @@ toc: true
 - :set autoindent　　Turn on auto-indent
 - :set smartindent　　Turn on intelligent auto-indent
 - :set shiftwidth=4　　Defines 4 spaces as indent size
-- ctrl-t, ctrl-d　　Indent/un-indent in insert mode  
+- ctrl-t, ctrl-d　　Indent/un-indent in insert mode
 - '>>　　Indent
 - <<　　Un-indent
 - =%　　Indent the code between parenthesis

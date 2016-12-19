@@ -11,6 +11,6 @@ description: Ubantu安装软件异常
 - Unable to locate package vim
 - Package 'vim-nox' has no installation candidate
 
-解决方法：apt-get update  
+解决方法：sudo apt-get update
 
 ---
