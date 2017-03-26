@@ -41,7 +41,7 @@ tar zxvf mysql-5.6.23.tar.gz
 ```bash
 sudo yum install cmake gcc-c++ ncurses-devel perl-Data-Dumper
 ```
-### 4、进入mysql源码目录，生成makefil
+### 4、进入mysql源码目录，生成makefile
 ```bash
 sudo cmake .
 ```
